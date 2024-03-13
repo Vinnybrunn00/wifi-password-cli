@@ -1,0 +1,1 @@
+MSG = '[yellow]usage[/]: main.py [green]-n --network[/] name [green]\npositional arguments:\n   -n, --network, Network name\n'
